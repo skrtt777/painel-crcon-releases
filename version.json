@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "build_date": "2025-01-17",
+    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.0/Painel_CRCON_v1.0.0.zip",
+    "changelog": [
+        "1.0.0 - Versão inicial com login, permissões e auto-update"
+    ]
+}
