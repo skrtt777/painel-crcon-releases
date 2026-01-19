@@ -1,8 +1,10 @@
 {
-    "version": "1.0.2",
-    "build_date": "2026-01-18",
-    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.2/Painel_CRCON_v1.0.2.zip",
+    "version": "1.0.4",
+    "build_date": "2026-01-19",
+    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.4/Painel_CRCON_v1.0.4.zip",
     "changelog": [
+        "1.0.4 - Corrigido: Remoção de mapas da rotação + Visual melhorado da whitelist",
+        "1.0.3 - Novo: Sistema de busca de players + Botão renovar VIP (+1 mês)",
         "1.0.2 - Corrigido: Sistema agora aceita todas as API keys do Django (não apenas superuser)",
         "1.0.1 - Adicionado ícone personalizado do clan",
         "1.0.0 - Versão inicial com sistema de login, permissões e auto-update"
