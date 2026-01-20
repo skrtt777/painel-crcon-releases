@@ -1,9 +1,10 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "build_date": "2026-01-20",
-    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.6/Painel_CRCON_v1.0.6.zip",
+    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.7/Painel_CRCON_v1.0.7.zip",
     "changelog": [
-        "1.0.6 - Novo: Aba Player Records com histórico de jogadores, filtros, detalhes e VIP direto",
+        "1.0.7 - Corrigido: Sistema de auto-update agora funciona corretamente (usa robocopy)",
+        "1.0.6 - Novo: Aba Player Records com histórico de 1200+ jogadores, filtros, detalhes e VIP direto",
         "1.0.5 - Corrigido: Sistema de auto-update (baixa e instala corretamente)",
         "1.0.4 - Corrigido: Remoção de mapas da rotação + Visual melhorado da whitelist",
         "1.0.3 - Novo: Sistema de busca de players + Botão renovar VIP (+1 mês)",
