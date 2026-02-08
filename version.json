@@ -1,8 +1,9 @@
 {
-    "version": "1.0.9",
-    "build_date": "2026-02-06",
-    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.0.9/Painel_CRCON_v1.0.9.zip",
+    "version": "1.1.0",
+    "build_date": "2026-02-08",
+    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.1.0/Painel_CRCON_v1.1.0.zip",
     "changelog": [
+        "1.1.0 - Novo: Automods alinhados com JSON real do CRCON (Solo Tank, TK Ban, VAC Bans) + Busca de jogadores melhorada (500 resultados, busca em aliases) + Fix layout de abas + Fix CSS Maps + Sistema de auto-update reescrito do zero (PowerShell + kill por PID)",
         "1.0.9 - Novo: Sistema 'Aviso por Minuto' para mensagens periódicas automáticas + Sincronização automática de todas as mensagens com o servidor + Correções no TK Ban (campo ban_message) + Cache desabilitado para evitar problemas de atualização",
         "1.0.8 - Novo: Sistema completo de gerenciamento de punições (aplicar e remover bans, blacklist, watch) + Mensagens de avisos editáveis + Nome alterado para 'Lista de Jogadores'",
         "1.0.7 - Corrigido: Sistema de auto-update agora funciona corretamente (usa robocopy)",
