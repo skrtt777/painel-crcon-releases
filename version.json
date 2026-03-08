@@ -1,8 +1,9 @@
 {
-    "version": "1.1.2",
-    "build_date": "2026-02-14",
-    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.1.2/Painel_CRCON_v1.1.2.zip",
+    "version": "1.1.3",
+    "build_date": "2026-03-08",
+    "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.1.3/Painel_CRCON_v1.1.3.zip",
     "changelog": [
+        "1.1.3 - Novo: Estatísticas de partida no Mensagens (preview + log persistente + modo teste manual), formato de mensagem reformulado e legível no jogo, correções de sincronização/travamentos no dashboard e monitor de estatísticas, envio/log resiliente após virada de mapa",
         "1.1.2 - Novo: Redesign completo dos Automods com descrições claras e fases organizadas (Avisos → Punições → Kick) + Configurações do servidor editáveis (Autobalance, Idle Kick, Ping, Votekick, Fila, VIP Slots, Mensagem de Boas-Vindas) + Votemap removido de Configurações (já presente em Mapas)",
         "1.1.1 - Novo: Sincronização centralizada de configs entre painéis (Match Avisos e Aviso por Minuto armazenados no servidor CRCON via Auto Broadcasts) + Migração automática de configs locais para o servidor",
         "1.1.0 - Novo: Automods alinhados com JSON real do CRCON (Solo Tank, TK Ban, VAC Bans) + Busca de jogadores melhorada (500 resultados, busca em aliases) + Fix layout de abas (scroll isolado) + Fix CSS Maps + Discord Webhook Message no TK Ban + Whitelist Players com flags múltiplas",
