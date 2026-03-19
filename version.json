@@ -3,21 +3,6 @@
     "build_date": "2026-03-19",
     "download_url": "https://github.com/skrtt777/painel-crcon-releases/releases/download/v1.1.5/Painel_CRCON_v1.1.5.zip",
     "changelog": [
-        "1.1.5 - Correções: auto-update resiliente para version.json malformado, normalização de URL de release para evitar Not Found e fallback de cache nos Automods quando o CRCON retornar JSON inválido",
-        "1.1.4 - Correções: envio de estatística ajustado para não disparar no início da partida seguinte (janela de fim + votemap), e correção do botão Dar VIP na Lista de Jogadores (modal global e fluxo de confirmação)",
-        "1.1.3 - Novo: Estatísticas de partida no Mensagens (preview + log persistente + modo teste manual), formato de mensagem reformulado e legível no jogo, correções de sincronização/travamentos no dashboard e monitor de estatísticas, envio/log resiliente após virada de mapa",
-        "1.1.2 - Novo: Redesign completo dos Automods com descrições claras e fases organizadas (Avisos → Punições → Kick) + Configurações do servidor editáveis (Autobalance, Idle Kick, Ping, Votekick, Fila, VIP Slots, Mensagem de Boas-Vindas) + Votemap removido de Configurações (já presente em Mapas)",
-        "1.1.1 - Novo: Sincronização centralizada de configs entre painéis (Match Avisos e Aviso por Minuto armazenados no servidor CRCON via Auto Broadcasts) + Migração automática de configs locais para o servidor",
-        "1.1.0 - Novo: Automods alinhados com JSON real do CRCON (Solo Tank, TK Ban, VAC Bans) + Busca de jogadores melhorada (500 resultados, busca em aliases) + Fix layout de abas (scroll isolado) + Fix CSS Maps + Discord Webhook Message no TK Ban + Whitelist Players com flags múltiplas",
-        "1.0.9 - Novo: Sistema 'Aviso por Minuto' para mensagens periódicas automáticas + Sincronização automática de todas as mensagens com o servidor + Correções no TK Ban (campo ban_message) + Cache desabilitado para evitar problemas de atualização",
-        "1.0.8 - Novo: Sistema completo de gerenciamento de punições (aplicar e remover bans, blacklist, watch) + Mensagens de avisos editáveis + Nome alterado para 'Lista de Jogadores'",
-        "1.0.7 - Corrigido: Sistema de auto-update agora funciona corretamente (usa robocopy)",
-        "1.0.6 - Novo: Aba Player Records com histórico de 1200+ jogadores, filtros, detalhes e VIP direto",
-        "1.0.5 - Corrigido: Sistema de auto-update (baixa e instala corretamente)",
-        "1.0.4 - Corrigido: Remoção de mapas da rotação + Visual melhorado da whitelist",
-        "1.0.3 - Novo: Sistema de busca de players + Botão renovar VIP (+1 mês)",
-        "1.0.2 - Corrigido: Sistema agora aceita todas as API keys do Django (não apenas superuser)",
-        "1.0.1 - Adicionado ícone personalizado do clan",
-        "1.0.0 - Versão inicial com sistema de login, permissões e auto-update"
+        "1.1.5 - Correções no auto-update (parse resiliente, URL de release normalizada e fallback de cache nos Automods)."
     ]
 }
